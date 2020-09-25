@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋, I'm Richard Aggrey
+
+### 🥇 I'm currently working as a fullstack developer based in Dar es salaam, Tanzania. 🇹🇿
+
+### 🏫 I'm currently learning Mobile development with interest in iOS and Android.
 
 <!--
 **rijkerd/rijkerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
