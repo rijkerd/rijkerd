@@ -1,8 +1,9 @@
-# Hi there 👋, I'm Richard Aggrey
+# Hi there 👋,
 
-### 🥇 I'm currently working as a fullstack developer based in Dar es salaam, Tanzania. 🇹🇿
+<h3 align="center"><strong>I'm currently working with</strong></h3>
+<p align="center">Javascript | Python | Dart </p>
 
-### 🏫 I'm currently learning Mobile development with interest in iOS and Android.
+![Rijkerd's github stats](https://github-readme-stats.vercel.app/api?username=rijkerd)
 
 <!--
 **rijkerd/rijkerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
