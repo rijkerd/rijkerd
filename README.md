@@ -1,9 +1,12 @@
 # Hi there 👋,
 
-<h3 align="center"><strong>I'm currently working with</strong></h3>
-<p align="center">Javascript | Python | Dart </p>
+<h2 align="center">I'm currently working with</h2>
+<p align="center"><strong>Javascript | Python | Dart </strong></p>
 
-![Rijkerd's github stats](https://github-readme-stats.vercel.app/api?username=rijkerd)
+![Rijkerd's github stats](https://github-readme-stats.vercel.app/api?username=rijkerd&count_private=true&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **rijkerd/rijkerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
