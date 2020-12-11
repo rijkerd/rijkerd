@@ -1,75 +1,27 @@
-# Hi there 👋,
+### Hi there 👋,
 
-<h2 align="center">I'm currently working with</h2>
-<p align="center"><strong>Javascript | Python | Dart </strong></p>
+#### Thank you for visiting my Github Profile
 
-![Rijkerd's github stats](https://github-readme-stats.vercel.app/api?username=rijkerd&count_private=true&show_icons=true)
+I'm a self-taught developer undertaking Bsc in Information Security.
 
-### Connect with me:
+Skills: HTML / CSS/ React JS/Express JS/ Django/ Flutter/
 
-[<img align="left" alt="ricardo | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ricardo | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ricardo | Gmail" width="30px" src="https://i.imgur.com/ohL3Sas.png" />][gmail]
+- 🔭 I’m currently working on Side projects
+- 🌱 I’m currently learning Mobile dev using **Flutter**
+- 👯 I’m looking to collaborate on Anything preferably DevOps
+- 💬 Ask me about ReactJS
+- 📫 How to reach me: **any of the below link**
 
-### Languages and Tools:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rijkerd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/richard-aggrey/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ricardo_aggrey/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/richardaggrey8) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6762688) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-dev-5d55f.web.app/)
 
-<div class="row">
-  <div class="column">
-    <img align="left" alt="HTML" width="26px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="CSS" width="26px" src="https://i.imgur.com/itjo8T6.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Flutter" width="26px" src="https://img.stackshare.io/service/7180/flutter-mark-square-100.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Dart" width="26px" src="https://img.stackshare.io/service/1646/Twitter-02.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Python" width="26px" src="https://img.stackshare.io/service/993/pUBY5pVj.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Firebase" width="26px" src="https://i.imgur.com/q0RCZbg.png" />
-  </div>
-  <div class="column">
-   <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/tkxqFgf.png" />
-  </div>
-  
-  <div class="column">
-    <img align="left" alt="Linux" width="26px" src="https://img.stackshare.io/service/10483/linux.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="Android" width="26px" src="https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg" />
-  </div>
-  <div class="column">
-    <img align="left" alt="IOS" width="26px" src="https://img.stackshare.io/service/2886/ios-logo.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="GoogleCloud" width="26px" src="https://img.stackshare.io/service/4240/1a61e4pu_400x400.jpg" />
-  </div>
-</div>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
-### Tools:
+[![trophy](https://github-profile-trophy.vercel.app/?username=rijkerd)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div class="row">
-  <div class="column">
-    <img align="left" alt="Git" width="26px" src="https://img.stackshare.io/service/1046/git.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/XECbcnS.jpg" />
-  </div>
-  <div class="column">
-    <img align="left" alt="VSCode" width="26px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" />
-  </div>
-  <div class="column">
-    <img align="left" alt="AndroidStudio" width="26px" src="https://i.imgur.com/dj7EJlG.png" />
-  </div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijkerd)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+![GitHub metrics](https://metrics.lecoq.io/rijkerd)
 
-[gmail]: https://mail.google.com/mail/u/0/?view=cm&source=mailto&to=richardaggrey7@gmail.com
-[twitter]: https://twitter.com/richardaggrey8
-[linkedin]: https://linkedin.com/in/richard-aggrey
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rijkerd)
+
+![Profile views](https://gpvc.arturio.dev/rijkerd)
