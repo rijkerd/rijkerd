@@ -6,7 +6,7 @@ I'm a self-taught developer undertaking Bsc in Information Security.
 
 Skills: HTML / CSS/ React JS/Express JS/ Django/ Flutter/
 
-- 🔭 I’m currently working on Side projects
+- 🔭 I’m currently working at @iPFsoftwares
 - 🌱 I’m currently learning Mobile dev using **Flutter**
 - 👯 I’m looking to collaborate on Anything preferably DevOps
 - 💬 Ask me about ReactJS
