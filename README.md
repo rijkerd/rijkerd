@@ -2,7 +2,7 @@
 
 #### Thank you for visiting my Github Profile
 
-I'm a self-taught developer undertaking Bsc in Information Security.
+I'm a self-taught Developer.
 
 Skills: HTML / CSS/ React JS/Express JS/ Django/ Flutter/
 
