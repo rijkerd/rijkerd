@@ -2,6 +2,8 @@
 
 #### Thank you for visiting my Github Profile
 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)](https://www.upwork.com/freelancers/~0136e43db789b9803a/)
+
 I'm a self-taught Developer.
 
 Skills: HTML / CSS/ React JS/Express JS/ Django/ Flutter/
