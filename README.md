@@ -7,7 +7,7 @@
 
 Skills: HTML / CSS/ React JS/Express JS/ Django/ Flutter/
 
-- 🔭 I’m currently working at Nipale Softwares
+- 🔭 I’m currently working at Tehamalab
 - 🌱 I’m currently learning Mobile dev using **Flutter**
 - 👯 I’m looking to collaborate on Anything preferably DevOps
 - 💬 Ask me about ReactJS
